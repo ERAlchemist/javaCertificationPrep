@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eacb0f49-2218-4682-9fb4-e4fd3a0440c9" name="Default Changelist" comment="">
+    <list default="true" id="65344bdc-78e2-4ec5-a7bf-77d2672d03f8" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../ArithmeticOperators/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ArithmeticOperators/ArithmeticOperators.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ArithmeticOperators/src/academy/learnprogramming/ArithmeticOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AssignmentOperators/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AssignmentOperators/AssignmentOperators.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AssignmentOperators/src/academy/learnprogramming/AssignmentOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MainMethod/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../NumericPromotion/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../NumericPromotion/NumericPromotion.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../NumericPromotion/src/academy/learnprogramming/NumericPromotion.java" afterDir="false" />
@@ -16,14 +13,14 @@
       <change afterPath="$PROJECT_DIR$/../Practice/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Practice/Practice.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Practice/src/WaterTank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UnaryOperators/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UnaryOperators/UnaryOperators.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UnaryOperators/src/academy/learnprogramming/UnaryOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnaryOperators.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/learnprogramming/UnaryOperators.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../UnderstandingNull/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../WrapperTypes/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../WrapperTypes/WrapperTypes.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../WrapperTypes/src/academy/learnprogramming/WrapperTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MainMethod/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MainMethod/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PackagesAndImports/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PackagesAndImports/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../UnderstandingNull/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UnderstandingNull/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -35,9 +32,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="1515874581">
+    <session id="445499430">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -54,28 +52,44 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="166" />
+          <entry key="java" value="1624" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="166" />
+          <entry key="JAVA" value="1624" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/Main.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ERAlbertus/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="90">
+              <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/UnaryOperators.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="271">
+              <caret line="71" column="18" selection-start-line="71" selection-start-column="18" selection-end-line="71" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -83,7 +97,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/academy/learnprogramming/Main.java" />
+        <option value="$PROJECT_DIR$/src/academy/learnprogramming/UnaryOperators.java" />
       </list>
     </option>
   </component>
@@ -105,32 +119,21 @@
         <subPane>
           <expand>
             <path>
-              <item name="MainMethod" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MainMethod" type="462c0819:PsiDirectoryNode" />
+              <item name="UnaryOperators" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UnaryOperators" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="MainMethod" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MainMethod" type="462c0819:PsiDirectoryNode" />
+              <item name="UnaryOperators" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UnaryOperators" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MainMethod" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MainMethod" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="learnprogramming" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="academy.learnprogramming" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -144,10 +147,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.UnaryOperators">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.ERAlbertus.Main" />
-      <module name="MainMethod" />
+      <module name="UnaryOperators" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -155,10 +158,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.learnprogramming.Main" />
-      <module name="MainMethod" />
-      <option name="PROGRAM_PARAMETERS" value="Java Certification" />
+    <configuration name="UnaryOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.learnprogramming.UnaryOperators" />
+      <module name="UnaryOperators" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="academy.learnprogramming.*" />
@@ -169,9 +171,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.UnaryOperators" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.UnaryOperators" />
       </list>
     </recent_temporary>
   </component>
@@ -180,11 +186,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="eacb0f49-2218-4682-9fb4-e4fd3a0440c9" name="Default Changelist" comment="" />
-      <created>1539050416862</created>
+      <changelist id="65344bdc-78e2-4ec5-a7bf-77d2672d03f8" name="Default Changelist" comment="" />
+      <created>1539233321793</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1539050416862</updated>
+      <updated>1539233321793</updated>
     </task>
     <servers />
   </component>
@@ -203,7 +209,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32967034" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32967034" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -222,15 +228,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/ERAlbertus/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        <state relative-caret-position="90">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/UnaryOperators.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="271">
+          <caret line="71" column="18" selection-start-line="71" selection-start-column="18" selection-end-line="71" selection-end-column="18" />
         </state>
       </provider>
     </entry>
