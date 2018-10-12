@@ -2,30 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f5cce84-5af7-4844-b881-3857ebedea7e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ArithmeticOperators/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ArithmeticOperators/ArithmeticOperators.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ArithmeticOperators/src/academy/learnprogramming/ArithmeticOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AssignmentOperators/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AssignmentOperators/AssignmentOperators.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AssignmentOperators/src/academy/learnprogramming/AssignmentOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MainMethod/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumericPromotion/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumericPromotion/NumericPromotion.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumericPromotion/src/academy/learnprogramming/NumericPromotion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice/Practice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice/src/WaterTank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UnaryOperators/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UnaryOperators/UnaryOperators.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UnaryOperators/src/academy/learnprogramming/UnaryOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UnderstandingNull/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WrapperTypes/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WrapperTypes/WrapperTypes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WrapperTypes/src/academy/learnprogramming/WrapperTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CompoundAssignmentOperators/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CompoundAssignmentOperators/CompoundAssignmentOperators.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CompoundAssignmentOperators/src/academy/learnprogramming/CompoundAssignmentOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConditionalOperators/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConditionalOperators/ConditionalOperators.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConditionalOperators/src/academy/learnprogramming/ConditionalOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RelationalOperators/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RelationalOperators/RelationalOperators.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RelationalOperators/src/academy/learnprogramming/RelationalOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AssignmentOperators/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignmentOperators/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MainMethod/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MainMethod/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../UnderstandingNull/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UnderstandingNull/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WrapperTypes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WrapperTypes/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -198,12 +189,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1682" y="960" width="1920" height="876" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2497332" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2497332" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" />
@@ -211,7 +201,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32967034" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32967034" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
