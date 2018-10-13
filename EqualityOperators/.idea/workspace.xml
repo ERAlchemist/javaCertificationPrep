@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8985aef7-0499-44b0-a35a-7ce8cd20cf51" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../CharacterArithmetic/src/academy/learnprogramming/CharacterArthimetic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EqualityOperators/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EqualityOperators/EqualityOperators.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EqualityOperators/src/academy/learnprogramming/EqualityOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ObjectEquality/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ObjectEquality/ObjectEquality.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ObjectEquality/src/academy/learnprogramming/ObjectEquality.java" afterDir="false" />
+    <list default="true" id="699d9941-94d8-455c-b08f-fc392717b3e0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EqualityOperators.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/learnprogramming/EqualityOperators.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MainMethod/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MainMethod/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PackagesAndImports/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PackagesAndImports/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -20,13 +16,22 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="-1598615393">
+    <session id="-1870924808">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="352" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="352" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -39,16 +44,6 @@
           <entry key="JAVA" value="1" />
         </counts>
       </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="1088" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="1088" />
-        </counts>
-      </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
@@ -56,17 +51,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ERAlbertus/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="14" selection-start-column="14" selection-end-column="14" />
+            <state relative-caret-position="75">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/ArithmeticOperators.java">
+        <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/EqualityOperators.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="75" column="14" selection-start-line="75" selection-start-column="14" selection-end-line="75" selection-end-column="14" />
+            <state relative-caret-position="105">
+              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -86,13 +81,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/academy/learnprogramming/ArithmeticOperators.java" />
+        <option value="$PROJECT_DIR$/src/com/ERAlbertus/Main.java" />
+        <option value="$PROJECT_DIR$/src/academy/learnprogramming/EqualityOperators.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1876" />
-    <option name="y" value="1105" />
+    <option name="x" value="1682" />
+    <option name="y" value="960" />
     <option name="width" value="1920" />
     <option name="height" value="876" />
   </component>
@@ -104,28 +100,31 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="ArithmeticOperators" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ArithmeticOperators" type="462c0819:PsiDirectoryNode" />
+              <item name="EqualityOperators" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EqualityOperators" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ArithmeticOperators" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ArithmeticOperators" type="462c0819:PsiDirectoryNode" />
+              <item name="EqualityOperators" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EqualityOperators" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EqualityOperators" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EqualityOperators" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ERAlbertus" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -139,10 +138,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArithmeticOperators">
-    <configuration name="ArithmeticOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.learnprogramming.ArithmeticOperators" />
-      <module name="ArithmeticOperators" />
+  <component name="RunManager" selected="Application.EqualityOperators">
+    <configuration name="EqualityOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.learnprogramming.EqualityOperators" />
+      <module name="EqualityOperators" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="academy.learnprogramming.*" />
@@ -155,7 +154,7 @@
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.ERAlbertus.Main" />
-      <module name="ArithmeticOperators" />
+      <module name="EqualityOperators" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -165,11 +164,11 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.ArithmeticOperators" />
+      <item itemvalue="Application.EqualityOperators" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArithmeticOperators" />
+        <item itemvalue="Application.EqualityOperators" />
       </list>
     </recent_temporary>
   </component>
@@ -178,22 +177,26 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8985aef7-0499-44b0-a35a-7ce8cd20cf51" name="Default Changelist" comment="" />
-      <created>1539229096250</created>
+      <changelist id="699d9941-94d8-455c-b08f-fc392717b3e0" name="Default Changelist" comment="" />
+      <created>1539387508025</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1539229096250</updated>
+      <updated>1539387508025</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1876" y="1105" width="1920" height="876" extended-state="0" />
+    <frame x="1682" y="960" width="1920" height="876" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2524013" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2497332" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="UI Designer" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.32967034" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32967034" />
@@ -201,16 +204,12 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Palette&#9;" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -219,15 +218,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/ERAlbertus/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/ArithmeticOperators.java">
+    <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/EqualityOperators.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="75" column="14" selection-start-line="75" selection-start-column="14" selection-end-line="75" selection-end-column="14" />
+        <state relative-caret-position="105">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
         </state>
       </provider>
     </entry>
