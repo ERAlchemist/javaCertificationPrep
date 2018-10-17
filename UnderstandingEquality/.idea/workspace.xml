@@ -1,42 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af34beaf-1587-4e41-9a57-8c83d6d4f3ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ForLoop/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ForLoop/ForLoop.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ForLoop/src/academy/learnprogramming/ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MethodChaining/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MethodChaining/MethodChaining.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MethodChaining/src/academy/learnprogramming/MethodChaining.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringBuilderExample/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringBuilderExample/StringBuilderExample.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringBuilderExample/src/academy/learnprogramming/StringBuilderExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringBuilderMethods/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringBuilderMethods/StringBuilderMethods.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringBuilderMethods/src/academy/learnprogramming/StringBuilderMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringConcatenation/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringConcatenation/StringConcatenation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringConcatenation/src/academy/learnprogramming/StringConcatenation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringEquality/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringEquality/StringEquality.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringEquality/src/academy/learnprogramming/StringEquality.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringImmutability/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringImmutability/StringImmutability.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringImmutability/src/academy/learnprogramming/StringImmutability.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringMethods/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringMethods/StringMethods.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringMethods/src/academy/learnprogramming/StringMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringMethods2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringMethods2/StringMethods2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringMethods2/src/academy/learnprogramming/StringMethods2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/test/testnow/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnderstandingEquality.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/learnprogramming/UnderstandingEquality.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DoWhile/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DoWhile/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PackagesAndImports/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PackagesAndImports/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="af34beaf-1587-4e41-9a57-8c83d6d4f3ba" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +13,7 @@
     <session id="1815944786">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -221,7 +187,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32967034" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32967034" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />

@@ -1,14 +1,18 @@
 package test.testnow;
 
 
-public class Test {
-    public static void main(String[] args) {
-       String letters = "abcdef";
-        System.out.println(letters.length());
-        System.out.println(letters.charAt(3));
-        System.out.println(letters.charAt(6));
-    }
+import com.sun.xml.internal.bind.util.Which;
+
+public class Test
+{           
+	public static void main(String[] args)
+	{
+	    int count = 0;
+	    ROW_LOOP: for(int row = 1; row <=3; row++)
+	        for(int col = 1; col <= 2; col++){
+	            if(row*col % 2 == 0) continue ROW_LOOP;
+	            count++;
+            }
+            System.out.println(count);
+	}
 }
-
-
-

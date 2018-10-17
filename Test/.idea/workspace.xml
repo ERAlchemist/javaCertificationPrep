@@ -2,40 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b624b0f5-9d92-4cb4-9265-6c3c28b4b6db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ForLoop/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ForLoop/ForLoop.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ForLoop/src/academy/learnprogramming/ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MethodChaining/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MethodChaining/MethodChaining.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MethodChaining/src/academy/learnprogramming/MethodChaining.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringBuilderExample/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringBuilderExample/StringBuilderExample.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringBuilderExample/src/academy/learnprogramming/StringBuilderExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringBuilderMethods/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringBuilderMethods/StringBuilderMethods.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringBuilderMethods/src/academy/learnprogramming/StringBuilderMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringConcatenation/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringConcatenation/StringConcatenation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringConcatenation/src/academy/learnprogramming/StringConcatenation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringEquality/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringEquality/StringEquality.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringEquality/src/academy/learnprogramming/StringEquality.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringImmutability/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringImmutability/StringImmutability.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringImmutability/src/academy/learnprogramming/StringImmutability.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringMethods/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringMethods/StringMethods.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringMethods/src/academy/learnprogramming/StringMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringMethods2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringMethods2/StringMethods2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringMethods2/src/academy/learnprogramming/StringMethods2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/testnow/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UnderstandingEquality/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UnderstandingEquality/UnderstandingEquality.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UnderstandingEquality/src/academy/learnprogramming/UnderstandingEquality.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DoWhile/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DoWhile/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PackagesAndImports/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PackagesAndImports/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BreakStatement/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BreakStatement/BreakStatement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BreakStatement/src/academy/learnprogramming/BreakStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CommonArrayProblems/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CommonArrayProblems/CommonArrayProblems.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CommonArrayProblems/src/academy/learnprogramming/CommonArrayProblems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContinueStatement/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContinueStatement/ContinueStatement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContinueStatement/src/academy/learnprogramming/ContinueStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForEachLoop/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForEachLoop/ForEachLoop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForEachLoop/src/academy/learnprogramming/ForEachLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MultidimensionalArrays/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MultidimensionalArrays/MultidimensionalArrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MultidimensionalArrays/src/academy/learnprogramming/MultidimensionalArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NestedLoops/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NestedLoops/NestedLoops.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NestedLoops/src/academy/learnprogramming/NestedLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SearchingArrays/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SearchingArrays/SearchingArrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SearchingArrays/src/academy/learnprogramming/SearchingArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingArrays/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingArrays/SortingArrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingArrays/src/academy/learnprogramming/SortingArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UsingArrays/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UsingArrays/UsingArrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UsingArrays/src/academy/learnprogramming/UsingArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VariableArguments/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VariableArguments/VariableArguments.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VariableArguments/src/academy/learnprogramming/VariableArguments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithArrays/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithArrays/WorkingWithArrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithArrays/src/academy/learnprogramming/WorkingWithArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/test/testnow/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/testnow/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/testnow/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UnderstandingEquality/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UnderstandingEquality/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,32 +68,23 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1329" />
+          <entry key="java" value="1844" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1329" />
+          <entry key="JAVA" value="1844" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ERAlbertus/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="14" selection-start-column="14" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/testnow/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="46" lean-forward="true" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+            <state relative-caret-position="180">
+              <caret line="12" column="55" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -223,7 +217,7 @@
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32967034" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32967034" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -231,7 +225,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32967034" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32967034" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.32967034" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -253,8 +247,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/testnow/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="46" lean-forward="true" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+        <state relative-caret-position="180">
+          <caret line="12" column="55" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
         </state>
       </provider>
     </entry>
