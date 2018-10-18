@@ -13,6 +13,13 @@ public class Test
 	            if(row*col % 2 == 0) continue ROW_LOOP;
 	            count++;
             }
-            System.out.println(count);
+            System.out.println(2*10-20);
+
+	        
+
+
+
+
+
 	}
 }

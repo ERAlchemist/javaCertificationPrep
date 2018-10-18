@@ -2,43 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4b5967b-7a1a-477a-b814-e87349d6d3e8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../BreakStatement/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BreakStatement/BreakStatement.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BreakStatement/src/academy/learnprogramming/BreakStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommonArrayProblems/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommonArrayProblems/CommonArrayProblems.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommonArrayProblems/src/academy/learnprogramming/CommonArrayProblems.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ContinueStatement/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ContinueStatement/ContinueStatement.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ContinueStatement/src/academy/learnprogramming/ContinueStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ForEachLoop/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ForEachLoop/ForEachLoop.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ForEachLoop/src/academy/learnprogramming/ForEachLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MultidimensionalArrays/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MultidimensionalArrays/MultidimensionalArrays.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MultidimensionalArrays/src/academy/learnprogramming/MultidimensionalArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NestedLoops/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NestedLoops/NestedLoops.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NestedLoops/src/academy/learnprogramming/NestedLoops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SearchingArrays/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SearchingArrays/SearchingArrays.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SearchingArrays/src/academy/learnprogramming/SearchingArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SortingArrays/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SortingArrays/SortingArrays.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SortingArrays/src/academy/learnprogramming/SortingArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UsingArrays/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UsingArrays/UsingArrays.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UsingArrays/src/academy/learnprogramming/UsingArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VariableArguments.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/learnprogramming/VariableArguments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WorkingWithArrays/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WorkingWithArrays/WorkingWithArrays.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WorkingWithArrays/src/academy/learnprogramming/WorkingWithArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NestedLoops/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NestedLoops/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Test/out/production/Test/test/testnow/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/out/production/Test/test/testnow/Test.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Test/src/test/testnow/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/src/test/testnow/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UnderstandingEquality/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UnderstandingEquality/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UsingArrays/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UsingArrays/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,6 +19,7 @@
     <session id="946644032">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -117,8 +86,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1954" />
-    <option name="y" value="18" />
+    <option name="x" value="1468" />
+    <option name="y" value="586" />
     <option name="width" value="1920" />
     <option name="height" value="876" />
   </component>
@@ -210,8 +179,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1954" y="18" width="1920" height="876" extended-state="0" />
-    <editor active="true" />
+    <frame x="1468" y="586" width="1920" height="876" extended-state="0" />
     <layout>
       <window_info id="Designer" />
       <window_info id="UI Designer" />
@@ -224,7 +192,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32967034" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32967034" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />

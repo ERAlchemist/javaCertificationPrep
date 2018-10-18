@@ -2,43 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77d29a18-af36-44c8-9c51-63de004a5e93" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../BreakStatement/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BreakStatement/BreakStatement.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BreakStatement/src/academy/learnprogramming/BreakStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommonArrayProblems/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommonArrayProblems/CommonArrayProblems.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommonArrayProblems/src/academy/learnprogramming/CommonArrayProblems.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ContinueStatement/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ContinueStatement/ContinueStatement.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ContinueStatement/src/academy/learnprogramming/ContinueStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ForEachLoop/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ForEachLoop/ForEachLoop.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ForEachLoop/src/academy/learnprogramming/ForEachLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MultidimensionalArrays/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MultidimensionalArrays/MultidimensionalArrays.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MultidimensionalArrays/src/academy/learnprogramming/MultidimensionalArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NestedLoops/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NestedLoops/NestedLoops.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NestedLoops/src/academy/learnprogramming/NestedLoops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SearchingArrays/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SearchingArrays/SearchingArrays.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SearchingArrays/src/academy/learnprogramming/SearchingArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SortingArrays/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SortingArrays/SortingArrays.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SortingArrays/src/academy/learnprogramming/SortingArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UsingArrays.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/learnprogramming/UsingArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VariableArguments/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VariableArguments/VariableArguments.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VariableArguments/src/academy/learnprogramming/VariableArguments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WorkingWithArrays/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WorkingWithArrays/WorkingWithArrays.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WorkingWithArrays/src/academy/learnprogramming/WorkingWithArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrrayListExample/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrrayListExample/ArrrayListExample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrrayListExample/src/academy/learnprogramming/ArrayListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UsingArrayListMethods1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UsingArrayListMethods1/UsingArrayListMethods1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UsingArrayListMethods1/src/academy/learnprogramming/UsingArrayLIstMethods1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NestedLoops/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NestedLoops/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Test/out/production/Test/test/testnow/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/out/production/Test/test/testnow/Test.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Test/src/test/testnow/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/src/test/testnow/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UnderstandingEquality/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UnderstandingEquality/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VariableArguments/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VariableArguments/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,6 +26,7 @@
     <session id="1062080562">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -224,7 +200,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32967034" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32967034" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
