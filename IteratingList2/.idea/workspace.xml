@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65513e8c-aad0-4684-9bde-beb4ebff7701" name="Default Changelist" comment="">
+    <list default="true" id="cd185f97-7f65-452c-ac36-54557f3e6b2c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../IteratingLIst1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IteratingLIst1/src/academy/learnprogramming/IteratingList1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/learnprogramming/IteratingList2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ListInteger/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListInteger/ListInteger.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ListInteger/src/academy/learnprogramming/SearchingList.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SortingList/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SortingList/SortingList.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SortingList/src/academy/learnprogramming/SortingList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListArrayConversion/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ListArrayConversion/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/out/production/Test/test/testnow/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/out/production/Test/test/testnow/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/src/test/testnow/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/src/test/testnow/Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,22 +25,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="1662357449">
+    <session id="1013841985">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="907" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="907" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -45,15 +42,34 @@
           <entry key="JAVA" value="1" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1089" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1089" />
+        </counts>
+      </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/ListArrayConversion.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ERAlbertus/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="541">
-              <caret line="40" selection-start-line="40" selection-end-line="40" />
+            <state>
+              <caret column="14" selection-start-column="14" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/IteratingList2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="226">
+              <caret line="54" column="51" selection-start-line="54" selection-start-column="51" selection-end-line="54" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -76,14 +92,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/ERAlbertus/Main.java" />
-        <option value="$PROJECT_DIR$/src/academy/learnprogramming/ListArrayConversion.java" />
+        <option value="$PROJECT_DIR$/src/academy/learnprogramming/IteratingList2.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1708" />
-    <option name="y" value="611" />
+    <option name="x" value="1840" />
+    <option name="y" value="1285" />
     <option name="width" value="1920" />
     <option name="height" value="876" />
   </component>
@@ -96,29 +111,23 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="ListArrayConversion" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ListArrayConversion" type="462c0819:PsiDirectoryNode" />
+              <item name="IteratingList2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IteratingList2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ListArrayConversion" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ListArrayConversion" type="462c0819:PsiDirectoryNode" />
+              <item name="IteratingList2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IteratingList2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ListArrayConversion" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ListArrayConversion" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ERAlbertus" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -138,10 +147,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ListArrayConversion">
-    <configuration name="ListArrayConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.learnprogramming.ListArrayConversion" />
-      <module name="ListArrayConversion" />
+  <component name="RunManager" selected="Application.IteratingList2">
+    <configuration name="IteratingList2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.learnprogramming.IteratingList2" />
+      <module name="IteratingList2" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="academy.learnprogramming.*" />
@@ -154,7 +163,7 @@
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.ERAlbertus.Main" />
-      <module name="ListArrayConversion" />
+      <module name="IteratingList2" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -164,12 +173,11 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.ListArrayConversion" />
+      <item itemvalue="Application.IteratingList2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ListArrayConversion" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.IteratingList2" />
       </list>
     </recent_temporary>
   </component>
@@ -178,16 +186,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="65513e8c-aad0-4684-9bde-beb4ebff7701" name="Default Changelist" comment="" />
-      <created>1539837259994</created>
+      <changelist id="cd185f97-7f65-452c-ac36-54557f3e6b2c" name="Default Changelist" comment="" />
+      <created>1539912869660</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1539837259994</updated>
+      <updated>1539912869660</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1708" y="611" width="1920" height="876" extended-state="0" />
+    <frame x="1840" y="1285" width="1920" height="876" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" />
@@ -201,7 +209,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32967034" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32967034" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32967034" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -220,15 +228,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/ERAlbertus/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/ListArrayConversion.java">
+    <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/IteratingList2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="541">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        <state relative-caret-position="226">
+          <caret line="54" column="51" selection-start-line="54" selection-start-column="51" selection-end-line="54" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -287,7 +295,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>ListArrayConversion</last-edited>
+          <last-edited>IteratingList2</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
