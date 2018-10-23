@@ -1,9 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd185f97-7f65-452c-ac36-54557f3e6b2c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/academy/learnprogramming/IteratingList2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/learnprogramming/IteratingList2.java" afterDir="false" />
+    <list default="true" id="5aa5f0ac-9d30-4c5c-a3b4-9bbfe4a9949c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../MethodArguments/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MethodArguments/MethodArguments.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MethodArguments/src/academy/learnprogramming/MethodArguments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MethodDesign/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MethodDesign/MethodDesign.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MethodDesign/src/academy/learnprogramming/MethodDesign.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MethodReturnType/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MethodReturnType/MethodReturnType.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MethodReturnType/src/academy/learnprogramming/MethodReturnType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MethodsWithVarArgs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/learnprogramming/MethodsWithVarArgs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IteratingList2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IteratingList2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/out/production/Test/test/testnow/Kata.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/out/production/Test/test/testnow/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/out/production/Test/test/testnow/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/src/test/testnow/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/src/test/testnow/Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,7 +28,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="1013841985">
+    <session id="678372">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="1" />
@@ -33,12 +48,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1113" />
+          <entry key="java" value="727" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1113" />
+          <entry key="JAVA" value="727" />
         </counts>
       </usages-collector>
     </session>
@@ -55,13 +70,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/IteratingList2.java">
+        <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/MethodsWithVarArgs.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="331">
-              <caret line="45" column="6" selection-start-line="45" selection-start-column="6" selection-end-line="45" selection-end-column="6" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -81,13 +93,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/academy/learnprogramming/IteratingList2.java" />
+        <option value="$PROJECT_DIR$/src/academy/learnprogramming/MethodsWithVarArgs.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1840" />
-    <option name="y" value="1284" />
+    <option name="x" value="1616" />
+    <option name="y" value="1046" />
     <option name="width" value="1920" />
     <option name="height" value="876" />
   </component>
@@ -99,30 +111,25 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="IteratingList2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IteratingList2" type="462c0819:PsiDirectoryNode" />
+              <item name="MethodsWithVarArgs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MethodsWithVarArgs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="IteratingList2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IteratingList2" type="462c0819:PsiDirectoryNode" />
+              <item name="MethodsWithVarArgs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MethodsWithVarArgs" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -136,10 +143,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.IteratingList2">
-    <configuration name="IteratingList2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.learnprogramming.IteratingList2" />
-      <module name="IteratingList2" />
+  <component name="RunManager" selected="Application.MethodsWithVarArgs">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.ERAlbertus.Main" />
+      <module name="MethodsWithVarArgs" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodsWithVarArgs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.learnprogramming.MethodsWithVarArgs" />
+      <module name="MethodsWithVarArgs" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="academy.learnprogramming.*" />
@@ -150,23 +167,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.ERAlbertus.Main" />
-      <module name="IteratingList2" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.IteratingList2" />
+      <item itemvalue="Application.MethodsWithVarArgs" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.IteratingList2" />
+        <item itemvalue="Application.MethodsWithVarArgs" />
       </list>
     </recent_temporary>
   </component>
@@ -175,16 +182,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="cd185f97-7f65-452c-ac36-54557f3e6b2c" name="Default Changelist" comment="" />
-      <created>1539912869660</created>
+      <changelist id="5aa5f0ac-9d30-4c5c-a3b4-9bbfe4a9949c" name="Default Changelist" comment="" />
+      <created>1540092343002</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1539912869660</updated>
+      <updated>1540092343002</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1840" y="1284" width="1920" height="876" extended-state="0" />
+    <frame x="1616" y="1046" width="1920" height="876" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" />
@@ -195,7 +202,7 @@
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32967034" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32967034" />
@@ -222,89 +229,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/IteratingList2.java">
+    <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/MethodsWithVarArgs.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="331">
-          <caret line="45" column="6" selection-start-line="45" selection-start-column="6" selection-end-line="45" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>IteratingList2</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
