@@ -11,21 +11,39 @@ public class Test {
 
 
     public static void main(String[] args) {
-        int[] s = {10, 20, 30};
-        int size = 3;
-        int i = 0;
-        while (i < size) i++;
-        System.out.println("The Top Element:" + s[i]);
+
 
     }
-}
-class Student {
-    int rollno;
-    String name;
 
-    Student(int rollno, String name) {
-        this.rollno = rollno;
-        this.name = name;
+
+
+
+
+    public int solution(int number) {
+        int start3 = number/3;
+        int start5 = number/5;
+        ArrayList<Integer> mult3 = new ArrayList<>();
+        ArrayList<Integer> mult5 = new ArrayList<>();
+        int sum = 0;
+
+        for(int i = 3; i <= start3*3; i+=3){
+            mult3.add(i);
+        }
+        for(int i = 5; i <= start5*5; i+=5){
+            mult5.add(i);
+        }
+
+        for(int i = 0; i< mult5.size(); i++ ){
+            int x = mult5.get(i);
+            if(!mult3.contains(x)){
+                mult3.add(x);
+            }
+        }
+
+        for(Integer num : mult3){
+            sum += num;
+        }
+        return sum;
+
     }
-}
 
