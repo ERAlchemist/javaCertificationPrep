@@ -2,24 +2,53 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b624b0f5-9d92-4cb4-9265-6c3c28b4b6db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../FinalVariables/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FinalVariables/FinalVariables.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FinalVariables/src/academy/learnprogramming/FinalVariables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OverloadingMethods/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OverloadingMethods/OverloadingMethods.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OverloadingMethods/src/academy/learnprogramming/OverloadingMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PassingDataBetweenMethods/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PassingDataBetweenMethods/PassingDataBetweenMethods.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PassingDataBetweenMethods/src/academy/learnprogramming/PassingDataBetweenMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ReturningDataFromMethods/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ReturningDataFromMethods/ReturningDataFromMethods.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ReturningDataFromMethods/src/academy/learnprogramming/ReturningDataFromMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StaticInitialization/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StaticInitialization/StaticInitialization.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StaticInitialization/src/academy/learnprogramming/StaticInitialization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassConstructors/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassConstructors/ClassConstructors.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassConstructors/src/academy/learnprogramming/ClassConstructors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassInheritance/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassInheritance/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassInheritance/src/academy/learnprogramming/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassInheritance/src/academy/learnprogramming/Bear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassInheritance/src/academy/learnprogramming/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassInheritance/src/academy/learnprogramming/CanRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassInheritance/src/academy/learnprogramming/Carnivore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassInheritance/src/academy/learnprogramming/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassInheritance/src/academy/learnprogramming/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassInheritance/src/academy/learnprogramming/Eagle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassInheritance/src/academy/learnprogramming/HasTail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassInheritance/src/academy/learnprogramming/Herbivore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassInheritance/src/academy/learnprogramming/Husky.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassInheritance/src/academy/learnprogramming/Omnivore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassInheritance/src/academy/learnprogramming/Rabbit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassInheritance/src/academy/learnprogramming/Reptile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassInheritance/src/academy/learnprogramming/Snake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassInheritance/src/academy/learnprogramming/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataEncapsulation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataEncapsulation/DataEncapsulation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataEncapsulation/src/academy/learnprogramming/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataEncapsulation/src/academy/learnprogramming/DataEncapsulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DefaultConstructor/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DefaultConstructor/DefaultConstructor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DefaultConstructor/src/academy/learnprogramming/DefaultConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DefaultConstructor/src/academy/learnprogramming/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ImmutableClasses/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ImmutableClasses/src/academy/learnprogramming/Complex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ImmutableClasses/src/academy/learnprogramming/ImmutableClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrderOfInitialization/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrderOfInitialization/OrderOfInitialization.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrderOfInitialization/src/academy/learnprogramming/OrderOfInitialization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OverloadingConstructors/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OverloadingConstructors/OverloadingConstructors.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OverloadingConstructors/src/academy/learnprogramming/OverloadingConstructors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThisKeyword/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThisKeyword/ThisKeyword.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThisKeyword/src/academy/learnprogramming/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OverloadingMethods/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OverloadingMethods/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReturningDataFromMethods/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReturningDataFromMethods/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/test/testnow/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/test/testnow/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test/test/testnow/Test.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/testnow/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/testnow/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UsingStaticMethodsAndFields/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UsingStaticMethodsAndFields/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,8 +63,10 @@
         <counts>
           <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -50,12 +81,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2899" />
+          <entry key="java" value="3637" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2899" />
+          <entry key="JAVA" value="3637" />
         </counts>
       </usages-collector>
     </session>
@@ -65,8 +96,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/testnow/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="285">
+              <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -94,8 +125,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1920" />
-    <option name="y" value="1062" />
+    <option name="x" value="787" />
+    <option name="y" value="584" />
     <option name="width" value="1920" />
     <option name="height" value="876" />
   </component>
@@ -107,7 +138,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -125,6 +155,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -192,10 +223,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="1062" width="1920" height="876" extended-state="0" />
+    <frame x="59" y="90" width="1920" height="876" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25773746" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2633547" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -232,8 +263,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/testnow/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="285">
+          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
