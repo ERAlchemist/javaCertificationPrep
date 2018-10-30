@@ -1,9 +1,6 @@
 package academy.learnprogramming.main;
 
-import academy.learnprogramming.Animal;
-import academy.learnprogramming.Bear;
-import academy.learnprogramming.Dog;
-import academy.learnprogramming.Husky;
+import academy.learnprogramming.*;
 
 public class Main {
 
@@ -34,6 +31,14 @@ public class Main {
         bear.eatMeat();
         bear.eatPlants();
         bear.printDetails();
+
+        Rabbit rabbit = new Rabbit();
+        rabbit.eatPlants();
+        rabbit.printDetails();
+
+        Cat cat = new Cat(3);
+        int speed = cat.getSpeed();
+        System.out.println("cat speed is= " + speed);
 
     }
 }

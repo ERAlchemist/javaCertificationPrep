@@ -5,51 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0900f8c-2da2-4523-8719-b4fd4baa1f67" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ClassConstructors/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ClassConstructors/ClassConstructors.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ClassConstructors/src/academy/learnprogramming/ClassConstructors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/learnprogramming/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/learnprogramming/Bear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/learnprogramming/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/learnprogramming/CanRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/learnprogramming/Carnivore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/learnprogramming/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/learnprogramming/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/learnprogramming/Eagle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/learnprogramming/HasTail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/learnprogramming/Herbivore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/learnprogramming/Husky.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/learnprogramming/Omnivore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/learnprogramming/Rabbit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/learnprogramming/Reptile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/learnprogramming/Snake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/learnprogramming/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataEncapsulation/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataEncapsulation/DataEncapsulation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataEncapsulation/src/academy/learnprogramming/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataEncapsulation/src/academy/learnprogramming/DataEncapsulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DefaultConstructor/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DefaultConstructor/DefaultConstructor.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DefaultConstructor/src/academy/learnprogramming/DefaultConstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DefaultConstructor/src/academy/learnprogramming/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ImmutableClasses/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ImmutableClasses/src/academy/learnprogramming/Complex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ImmutableClasses/src/academy/learnprogramming/ImmutableClasses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OrderOfInitialization/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OrderOfInitialization/OrderOfInitialization.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OrderOfInitialization/src/academy/learnprogramming/OrderOfInitialization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OverloadingConstructors/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OverloadingConstructors/OverloadingConstructors.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OverloadingConstructors/src/academy/learnprogramming/OverloadingConstructors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ThisKeyword/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ThisKeyword/ThisKeyword.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ThisKeyword/src/academy/learnprogramming/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OverloadingMethods/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OverloadingMethods/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReturningDataFromMethods/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReturningDataFromMethods/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/learnprogramming/Hop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/learnprogramming/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/learnprogramming/Walk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/learnprogramming/main/PolyParameters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/learnprogramming/main/Polymorphism.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/Bear.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/Bear.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/Bird.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/Bird.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/CanRun.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/CanRun.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/Carnivore.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/Carnivore.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/Eagle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/Eagle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/HasTail.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/HasTail.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/Herbivore.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/Herbivore.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/Husky.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/Husky.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/Omnivore.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/Omnivore.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/Rabbit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/Rabbit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/Reptile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/Reptile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/Snake.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/Snake.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/main/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ClassInheritance/com/ERAlbertus/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClassInheritance/com/ERAlbertus/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/learnprogramming/Carnivore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/learnprogramming/Carnivore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/learnprogramming/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/learnprogramming/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/learnprogramming/Herbivore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/learnprogramming/Herbivore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/learnprogramming/Rabbit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/learnprogramming/Rabbit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/learnprogramming/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/learnprogramming/main/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/out/production/Test/test/testnow/Student.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Test/out/production/Test/test/testnow/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/out/production/Test/test/testnow/Test.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Test/src/test/testnow/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/src/test/testnow/Test.java" afterDir="false" />
     </list>
@@ -64,39 +49,51 @@
     <session id="-1588124339">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="16" />
+          <entry key="java" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="16" />
+          <entry key="JAVA" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="4552" />
+          <entry key="java" value="7391" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4552" />
+          <entry key="JAVA" value="7391" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/main/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="31" column="12" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
+            <state relative-caret-position="297">
+              <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/main/Polymorphism.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="48" selection-start-line="48" selection-end-line="48" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -105,37 +102,31 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/Herbivore.java">
+        <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/main/PolyParameters.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+            <state relative-caret-position="465">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/Hop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/Carnivore.java">
+        <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/Rabbit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/Bear.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/Omnivore.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="375">
+              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
             </state>
           </provider>
         </entry>
@@ -143,26 +134,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/Animal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+            <state relative-caret-position="-18">
+              <caret line="52" selection-start-line="52" selection-end-line="52" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/HasTail.java">
+        <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/Run.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="57" selection-start-line="13" selection-start-column="57" selection-end-line="13" selection-end-column="57" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/Dog.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+            <state relative-caret-position="30">
+              <caret line="2" column="35" lean-forward="true" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -170,17 +152,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/Husky.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="402">
+            <state relative-caret-position="435">
               <caret line="29" column="61" selection-start-line="29" selection-start-column="61" selection-end-line="29" selection-end-column="61" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/CanRun.java">
+        <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/Walk.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+            <state relative-caret-position="75">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/Cat.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -190,8 +181,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -206,24 +197,30 @@
         <option value="$PROJECT_DIR$/src/academy/learnprogramming/Reptile.java" />
         <option value="$PROJECT_DIR$/src/academy/learnprogramming/Snake.java" />
         <option value="$PROJECT_DIR$/src/academy/learnprogramming/Bird.java" />
-        <option value="$PROJECT_DIR$/src/academy/learnprogramming/Cat.java" />
-        <option value="$PROJECT_DIR$/src/academy/learnprogramming/Rabbit.java" />
         <option value="$PROJECT_DIR$/src/academy/learnprogramming/Animal.java" />
         <option value="$PROJECT_DIR$/src/academy/learnprogramming/HasTail.java" />
         <option value="$PROJECT_DIR$/src/academy/learnprogramming/CanRun.java" />
         <option value="$PROJECT_DIR$/src/academy/learnprogramming/Dog.java" />
         <option value="$PROJECT_DIR$/src/academy/learnprogramming/Husky.java" />
-        <option value="$PROJECT_DIR$/src/academy/learnprogramming/Herbivore.java" />
-        <option value="$PROJECT_DIR$/src/academy/learnprogramming/Carnivore.java" />
         <option value="$PROJECT_DIR$/src/academy/learnprogramming/Omnivore.java" />
         <option value="$PROJECT_DIR$/src/academy/learnprogramming/Bear.java" />
+        <option value="$PROJECT_DIR$/src/academy/learnprogramming/Carnivore.java" />
+        <option value="$PROJECT_DIR$/src/academy/learnprogramming/Herbivore.java" />
+        <option value="$PROJECT_DIR$/src/academy/learnprogramming/Walk.java" />
+        <option value="$PROJECT_DIR$/src/academy/learnprogramming/Run.java" />
+        <option value="$PROJECT_DIR$/src/academy/learnprogramming/Cat.java" />
+        <option value="$PROJECT_DIR$/src/academy/learnprogramming/Hop.java" />
         <option value="$PROJECT_DIR$/src/academy/learnprogramming/main/Main.java" />
+        <option value="$PROJECT_DIR$/src/academy/learnprogramming/Rabbit.java" />
+        <option value="$PROJECT_DIR$/src/academy/learnprogramming/Polymorphism.java" />
+        <option value="$PROJECT_DIR$/src/academy/learnprogramming/main/PolyParameters.java" />
+        <option value="$PROJECT_DIR$/src/academy/learnprogramming/main/Polymorphism.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="658" />
-    <option name="y" value="572" />
+    <option name="x" value="1185" />
+    <option name="y" value="344" />
     <option name="width" value="1920" />
     <option name="height" value="876" />
   </component>
@@ -264,9 +261,19 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="academy.learnprogramming.main" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -280,7 +287,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.PolyParameters">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.learnprogramming.main.Main" />
+      <module name="ClassInheritance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.learnprogramming.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.ERAlbertus.Main" />
       <module name="ClassInheritance" />
@@ -304,12 +324,42 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PolyParameters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.learnprogramming.main.PolyParameters" />
+      <module name="ClassInheritance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.learnprogramming.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Polymorphism" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.learnprogramming.main.Polymorphism" />
+      <module name="ClassInheritance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.learnprogramming.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Polymorphism" />
+      <item itemvalue="Application.PolyParameters" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PolyParameters" />
+        <item itemvalue="Application.Polymorphism" />
         <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
@@ -328,18 +378,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="90" width="1920" height="876" extended-state="0" />
+    <frame x="1185" y="344" width="1920" height="876" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553419" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32871014" />
@@ -347,12 +393,16 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32871014" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -394,24 +444,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/Cat.java">
+    <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/Omnivore.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="20" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/Rabbit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
@@ -422,6 +458,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/CanRun.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -429,38 +472,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/Dog.java">
+    <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/Carnivore.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/Husky.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="29" column="61" selection-start-line="29" selection-start-column="61" selection-end-line="29" selection-end-column="61" />
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/Herbivore.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/Carnivore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/Omnivore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="165">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -471,15 +493,155 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/Walk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="35" lean-forward="true" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/main/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="31" column="12" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
+        <state relative-caret-position="297">
+          <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-18">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/Husky.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="61" selection-start-line="29" selection-start-column="61" selection-end-line="29" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/Rabbit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/main/PolyParameters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/main/Polymorphism.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/Hop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ClassInheritance</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

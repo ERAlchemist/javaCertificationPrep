@@ -1,6 +1,6 @@
 package academy.learnprogramming;
 
-public class Cat extends Animal {
+public class Cat extends Animal implements  Run {
 
     public Cat (int age) {
         super(age);
@@ -18,6 +18,11 @@ public class Cat extends Animal {
     @Override
     public void printName() {
 
+    }
+
+    @Override
+    public int getSpeed() {
+        return 15;
     }
 
 

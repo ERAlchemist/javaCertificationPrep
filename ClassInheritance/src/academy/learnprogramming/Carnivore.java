@@ -2,5 +2,7 @@ package academy.learnprogramming;
 
 public interface Carnivore {
 
-    void eatMeat();
+    default void eatMeat() {
+        System.out.println("Eating meat");
+    }
 }
