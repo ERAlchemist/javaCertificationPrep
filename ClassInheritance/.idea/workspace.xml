@@ -5,38 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0900f8c-2da2-4523-8719-b4fd4baa1f67" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/academy/learnprogramming/Hop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/learnprogramming/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/learnprogramming/Walk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/learnprogramming/main/PolyParameters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/learnprogramming/main/Polymorphism.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/Bear.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/Bear.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/Bird.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/Bird.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/CanRun.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/CanRun.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/Carnivore.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/Carnivore.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/Cat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/Eagle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/Eagle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/HasTail.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/HasTail.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/Herbivore.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/Herbivore.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/Husky.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/Husky.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/Omnivore.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/Omnivore.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/Rabbit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/Rabbit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/Reptile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/Reptile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/Snake.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/Snake.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClassInheritance/academy/learnprogramming/main/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassInheritance/com/ERAlbertus/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClassInheritance/com/ERAlbertus/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/learnprogramming/Carnivore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/learnprogramming/Carnivore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/learnprogramming/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/learnprogramming/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/learnprogramming/Herbivore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/learnprogramming/Herbivore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/learnprogramming/Rabbit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/learnprogramming/Rabbit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/learnprogramming/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/learnprogramming/main/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/out/production/Test/test/testnow/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/out/production/Test/test/testnow/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/src/test/testnow/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/src/test/testnow/Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,7 +18,7 @@
     <session id="-1588124339">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.8" value="1" />
@@ -388,7 +357,7 @@
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32871014" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32871014" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />

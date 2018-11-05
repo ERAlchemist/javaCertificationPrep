@@ -42,7 +42,7 @@ public class Test {
         System.out.println("arr2-->"+Test.findMissingLetter(new char[] { 'a','b','c','d','f' }));
         new Animal(5);
         new Horse();
-      
+
     }
 
 
