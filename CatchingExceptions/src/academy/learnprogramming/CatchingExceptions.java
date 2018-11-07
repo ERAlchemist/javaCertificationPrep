@@ -14,6 +14,33 @@ public class CatchingExceptions {
         } catch(MuseumClosed mc) {  // superclass
             System.out.println("Closed");
         }
+        // does not compile since the first catch will handle both
+        // catch (MuseumClosedForLunch me) { // subclass
+        //  System.out.println("Closed for lunch come back in 2 hours");
+        // }
+        System.out.println(calculate());
+    }
+
+    public static String calculate() {
+        String result = "";
+        String str = null;
+
+        try {
+            try{
+                result += "start"; // result =start
+                str.length();
+                result += "end";
+            } catch (NullPointerException e) {
+                result += "npe"; // result = startnpe
+                throw new RuntimeException();
+            }finally {
+                result += "finally"; // result = startnpefinally
+                throw new Exception();
+            }
+        } catch(Exception e) {
+            result += "finished"; // result = startnpefinallyfinished
+        }
+        return result;
     }
 
     public static void visitMuseum() {

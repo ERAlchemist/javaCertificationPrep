@@ -2,39 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16932e65-6f71-4a90-ae13-e07edd621564" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../CatchingExceptions/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CatchingExceptions/CatchingExceptions.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CatchingExceptions/src/academy/learnprogramming/CatchingExceptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CheckedVsUnchecked/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CheckedVsUnchecked/CheckedVsUnchecked.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CheckedVsUnchecked/src/academy/learnprogramming/CheckedVsUnchecked.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Excercises/DeclareWinner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Excercises/EnoughIsEnough.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Excercises/Kata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CreatingDateAndTIme/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CreatingDateAndTIme/src/academy/learnprogramming/CreatingDateAndTIme.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DealingWithExceptions/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DealingWithExceptions/DealingWithExceptions.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DealingWithExceptions/src/academy/learnprogramming/DealingWithExceptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FormattingDateTime/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FormattingDateTime/FormattingDateTime.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FormattingDateTime/src/academy/learnprogramming/FormattingDateTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ParsingDateTime/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ParsingDateTime/ParsingDateTime.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UnderstandingExceptions/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UnderstandingExceptions/UnderstandingExceptions.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UnderstandingExceptions/src/academy/learnprogramming/UnderstandingExceptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UsingDateAndTime/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UsingFinally/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UsingFinally/UsingFinally.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UsingFinally/src/academy/learnprogramming/UsingFinally.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UsingPeriod/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UsingPeriod/UsingPeriod.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UsingPeriod/src/academy/learnprogramming/UsingPeriod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ClassInheritance/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ClassInheritance/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/src/test/testnow/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/src/test/testnow/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CatchWithReturn/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CatchWithReturn/CatchWithReturn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CatchWithReturn/src/academy/learnprogramming/CatchWithReturn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Excercises/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MethodsWithExceptions/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MethodsWithExceptions/src/academy/learnprogramming/MethodsWithExceptions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CatchingExceptions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CatchingExceptions/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CatchingExceptions/out/production/CatchingExceptions/academy/learnprogramming/CatchingExceptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CatchingExceptions/out/production/CatchingExceptions/academy/learnprogramming/CatchingExceptions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CatchingExceptions/src/academy/learnprogramming/CatchingExceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CatchingExceptions/src/academy/learnprogramming/CatchingExceptions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Excercises/EnoughIsEnough.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Excercises/EnoughIsEnough.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Excercises/Kata.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Excercises/Kata.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CreatingDateAndTIme/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CreatingDateAndTIme/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,6 +27,7 @@
     <session id="1925415297">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.opened" value="2" />
@@ -54,22 +35,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="3" />
+          <entry key="java" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="3" />
+          <entry key="JAVA" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1009" />
+          <entry key="java" value="1342" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1009" />
+          <entry key="JAVA" value="1342" />
         </counts>
       </usages-collector>
     </session>
@@ -85,13 +66,22 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/Excercises/Cat.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/Excercises/EnoughIsEnough.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="44" column="23" selection-start-line="41" selection-start-column="5" selection-end-line="49" selection-end-column="7" />
+            <state relative-caret-position="342">
+              <caret line="62" lean-forward="true" selection-end-line="62" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#0#2266#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -100,13 +90,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/Excercises/Kata.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+            <state relative-caret-position="402">
+              <caret line="36" lean-forward="true" selection-start-line="1" selection-end-line="36" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/Excercises/DeclareWinner.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="465">
@@ -130,15 +120,16 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/com/Excercises/DeclareWinner.java" />
+        <option value="$PROJECT_DIR$/src/com/Excercises/Cat.java" />
         <option value="$PROJECT_DIR$/src/com/Excercises/EnoughIsEnough.java" />
         <option value="$PROJECT_DIR$/src/com/Excercises/Kata.java" />
-        <option value="$PROJECT_DIR$/src/com/Excercises/DeclareWinner.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1272" />
-    <option name="y" value="1123" />
+    <option name="x" value="1108" />
+    <option name="y" value="666" />
     <option name="width" value="1920" />
     <option name="height" value="876" />
   </component>
@@ -200,7 +191,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Cat">
+    <configuration name="Cat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Excercises.Cat" />
+      <module name="CodeWars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Excercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.ERAlbertus.Main" />
       <module name="CodeWars" />
@@ -211,6 +215,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Cat" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Cat" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -226,17 +239,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1272" y="1123" width="1920" height="876" extended-state="0" />
-    <editor active="true" />
+    <frame x="1108" y="666" width="1920" height="876" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25267094" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.32871014" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32871014" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -256,6 +269,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/Excercises/DeclareWinner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ERAlbertus/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -265,25 +285,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Excercises/EnoughIsEnough.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="44" column="23" selection-start-line="41" selection-start-column="5" selection-end-line="49" selection-end-column="7" />
+        <state relative-caret-position="342">
+          <caret line="62" lean-forward="true" selection-end-line="62" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#0#2266#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Excercises/Kata.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        <state relative-caret-position="402">
+          <caret line="36" lean-forward="true" selection-start-line="1" selection-end-line="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Excercises/DeclareWinner.java">
+    <entry file="file://$PROJECT_DIR$/src/com/Excercises/Cat.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="30">
+          <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
