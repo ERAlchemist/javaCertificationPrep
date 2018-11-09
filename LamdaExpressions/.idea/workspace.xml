@@ -2,22 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b35789b7-b5a2-4576-949b-200791878d2c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../CatchWithReturn/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CatchWithReturn/CatchWithReturn.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CatchWithReturn/src/academy/learnprogramming/CatchWithReturn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodeWars/src/com/Excercises/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LamdaExpressions.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/learnprogramming/LambdaExpressions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MethodsWithExceptions/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MethodsWithExceptions/src/academy/learnprogramming/MethodsWithExceptions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CatchingExceptions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CatchingExceptions/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CatchingExceptions/out/production/CatchingExceptions/academy/learnprogramming/CatchingExceptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CatchingExceptions/out/production/CatchingExceptions/academy/learnprogramming/CatchingExceptions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CatchingExceptions/src/academy/learnprogramming/CatchingExceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CatchingExceptions/src/academy/learnprogramming/CatchingExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeWars/src/com/Excercises/Questions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CodeWars/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeWars/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CodeWars/src/com/Excercises/EnoughIsEnough.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeWars/src/com/Excercises/EnoughIsEnough.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CodeWars/src/com/Excercises/Kata.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeWars/src/com/Excercises/Kata.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeWars/out/production/CodeWars/com/Excercises/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeWars/out/production/CodeWars/com/Excercises/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeWars/src/com/Excercises/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeWars/src/com/Excercises/Cat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CreatingDateAndTIme/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CreatingDateAndTIme/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LamdaExpressions/academy/learnprogramming/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LamdaExpressions/academy/learnprogramming/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LamdaExpressions/academy/learnprogramming/CheckCanJump.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LamdaExpressions/academy/learnprogramming/CheckCanJump.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LamdaExpressions/academy/learnprogramming/LambdaExpressions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LamdaExpressions/academy/learnprogramming/LambdaExpressions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/learnprogramming/LambdaExpressions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/learnprogramming/LambdaExpressions.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,12 +30,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="921" />
+          <entry key="java" value="1995" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="921" />
+          <entry key="JAVA" value="1995" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -70,8 +64,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/LambdaExpressions.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="54" column="5" lean-forward="true" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
+            <state relative-caret-position="357">
+              <caret line="85" column="29" lean-forward="true" selection-start-line="85" selection-start-column="29" selection-end-line="85" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -100,8 +94,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1195" />
-    <option name="y" value="1842" />
+    <option name="x" value="1267" />
+    <option name="y" value="1662" />
     <option name="width" value="1920" />
     <option name="height" value="876" />
   </component>
@@ -198,7 +192,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1195" y="1842" width="1920" height="876" extended-state="0" />
+    <frame x="1258" y="877" width="1920" height="876" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="UI Designer" />
@@ -237,8 +232,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/LambdaExpressions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="54" column="5" lean-forward="true" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
+        <state relative-caret-position="357">
+          <caret line="85" column="29" lean-forward="true" selection-start-line="85" selection-start-column="29" selection-end-line="85" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

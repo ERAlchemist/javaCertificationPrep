@@ -2,22 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5779168-a9f3-4662-a8b9-e5160ef3dc7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../CatchWithReturn/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CatchWithReturn/CatchWithReturn.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CatchWithReturn/src/academy/learnprogramming/CatchWithReturn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodeWars/src/com/Excercises/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LamdaExpressions/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LamdaExpressions/LamdaExpressions.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LamdaExpressions/src/academy/learnprogramming/LambdaExpressions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MethodsWithExceptions/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MethodsWithExceptions/src/academy/learnprogramming/MethodsWithExceptions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CatchingExceptions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CatchingExceptions/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CatchingExceptions/out/production/CatchingExceptions/academy/learnprogramming/CatchingExceptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CatchingExceptions/out/production/CatchingExceptions/academy/learnprogramming/CatchingExceptions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CatchingExceptions/src/academy/learnprogramming/CatchingExceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CatchingExceptions/src/academy/learnprogramming/CatchingExceptions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CodeWars/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeWars/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CodeWars/src/com/Excercises/EnoughIsEnough.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeWars/src/com/Excercises/EnoughIsEnough.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CodeWars/src/com/Excercises/Kata.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeWars/src/com/Excercises/Kata.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LamdaExpressions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LamdaExpressions/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LamdaExpressions/out/production/LamdaExpressions/academy/learnprogramming/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LamdaExpressions/out/production/LamdaExpressions/academy/learnprogramming/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LamdaExpressions/out/production/LamdaExpressions/academy/learnprogramming/CheckCanJump.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LamdaExpressions/out/production/LamdaExpressions/academy/learnprogramming/CheckCanJump.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LamdaExpressions/out/production/LamdaExpressions/academy/learnprogramming/LambdaExpressions.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LamdaExpressions/out/production/LamdaExpressions/academy/learnprogramming/LambdaExpressions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LamdaExpressions/src/academy/learnprogramming/LambdaExpressions.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LamdaExpressions/src/academy/learnprogramming/LambdaExpressions.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,6 +20,7 @@
     <session id="973051268">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.20" value="1" />
@@ -72,8 +63,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/CreatingDateAndTIme.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+            <state relative-caret-position="285">
+              <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -101,8 +92,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1298" />
-    <option name="y" value="1770" />
+    <option name="x" value="1313" />
+    <option name="y" value="729" />
     <option name="width" value="1920" />
     <option name="height" value="876" />
   </component>
@@ -199,7 +190,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1298" y="1770" width="1920" height="876" extended-state="0" />
+    <frame x="1313" y="729" width="1920" height="876" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553419" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -238,8 +229,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/CreatingDateAndTIme.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+        <state relative-caret-position="285">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

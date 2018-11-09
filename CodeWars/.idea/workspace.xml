@@ -2,19 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16932e65-6f71-4a90-ae13-e07edd621564" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../CatchWithReturn/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CatchWithReturn/CatchWithReturn.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CatchWithReturn/src/academy/learnprogramming/CatchWithReturn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Excercises/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MethodsWithExceptions/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MethodsWithExceptions/src/academy/learnprogramming/MethodsWithExceptions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CatchingExceptions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CatchingExceptions/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CatchingExceptions/out/production/CatchingExceptions/academy/learnprogramming/CatchingExceptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CatchingExceptions/out/production/CatchingExceptions/academy/learnprogramming/CatchingExceptions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CatchingExceptions/src/academy/learnprogramming/CatchingExceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CatchingExceptions/src/academy/learnprogramming/CatchingExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Excercises/Questions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Excercises/EnoughIsEnough.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Excercises/EnoughIsEnough.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Excercises/Kata.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Excercises/Kata.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeWars/com/Excercises/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeWars/com/Excercises/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Excercises/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Excercises/Cat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CreatingDateAndTIme/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CreatingDateAndTIme/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LamdaExpressions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LamdaExpressions/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LamdaExpressions/out/production/LamdaExpressions/academy/learnprogramming/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LamdaExpressions/out/production/LamdaExpressions/academy/learnprogramming/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LamdaExpressions/out/production/LamdaExpressions/academy/learnprogramming/CheckCanJump.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LamdaExpressions/out/production/LamdaExpressions/academy/learnprogramming/CheckCanJump.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LamdaExpressions/out/production/LamdaExpressions/academy/learnprogramming/LambdaExpressions.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LamdaExpressions/out/production/LamdaExpressions/academy/learnprogramming/LambdaExpressions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LamdaExpressions/src/academy/learnprogramming/LambdaExpressions.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LamdaExpressions/src/academy/learnprogramming/LambdaExpressions.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,28 +26,29 @@
         <counts>
           <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="4" />
+          <entry key="java" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="4" />
+          <entry key="JAVA" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1342" />
+          <entry key="java" value="1894" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1342" />
+          <entry key="JAVA" value="1894" />
         </counts>
       </usages-collector>
     </session>
@@ -66,11 +64,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/Excercises/Cat.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            <state relative-caret-position="345">
+              <caret line="29" column="5" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="29" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/Excercises/Questions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="180" column="9" lean-forward="true" selection-start-line="180" selection-start-column="9" selection-end-line="180" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -78,8 +88,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/Excercises/EnoughIsEnough.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="62" lean-forward="true" selection-end-line="62" />
+            <state relative-caret-position="15">
+              <caret line="62" selection-end-line="62" />
               <folding>
                 <element signature="e#0#2266#0" expanded="true" />
               </folding>
@@ -90,8 +100,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/Excercises/Kata.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="402">
-              <caret line="36" lean-forward="true" selection-start-line="1" selection-end-line="36" />
+            <state relative-caret-position="540">
+              <caret line="36" selection-start-line="1" selection-end-line="36" />
             </state>
           </provider>
         </entry>
@@ -121,15 +131,16 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/Excercises/DeclareWinner.java" />
-        <option value="$PROJECT_DIR$/src/com/Excercises/Cat.java" />
         <option value="$PROJECT_DIR$/src/com/Excercises/EnoughIsEnough.java" />
         <option value="$PROJECT_DIR$/src/com/Excercises/Kata.java" />
+        <option value="$PROJECT_DIR$/src/com/Excercises/Cat.java" />
+        <option value="$PROJECT_DIR$/src/com/Excercises/Questions.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1108" />
-    <option name="y" value="666" />
+    <option name="x" value="1062" />
+    <option name="y" value="1620" />
     <option name="width" value="1920" />
     <option name="height" value="876" />
   </component>
@@ -170,8 +181,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -239,17 +250,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1108" y="666" width="1920" height="876" extended-state="0" />
+    <frame x="1062" y="1620" width="1920" height="876" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25267094" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553419" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32871014" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32871014" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32871014" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -257,6 +268,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32871014" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -269,13 +281,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/Excercises/DeclareWinner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ERAlbertus/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -285,8 +290,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Excercises/EnoughIsEnough.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="62" lean-forward="true" selection-end-line="62" />
+        <state relative-caret-position="15">
+          <caret line="62" selection-end-line="62" />
           <folding>
             <element signature="e#0#2266#0" expanded="true" />
           </folding>
@@ -295,15 +300,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Excercises/Kata.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="36" lean-forward="true" selection-start-line="1" selection-end-line="36" />
+        <state relative-caret-position="540">
+          <caret line="36" selection-start-line="1" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Excercises/DeclareWinner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Excercises/Cat.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        <state relative-caret-position="345">
+          <caret line="29" column="5" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Excercises/Questions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="180" column="9" lean-forward="true" selection-start-line="180" selection-start-column="9" selection-end-line="180" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
